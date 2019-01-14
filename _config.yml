@@ -9,12 +9,12 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Yihsun (Ethan) Cheng"
-resume_title:                   "AI/CV/ML Engineer"
+resume_title:                   "AI/ML/DL/CV Algorithm Research Engineer"
 resume_contact_email:           "c561688@outlook.com"
 resume_header_contact_info:     "email: c561688@outlook.com    Cell: (408)459-9005"
-resume_header_intro:            "<p>I enjoy working on hard problems like AI Algos, especially solving problem through collaboration. I am an agile and constant learner who is always prepared for crazy people with crazy ideas.</p>"
+resume_header_intro:            "<p>I enjoy working on hard problems like AI Algos, especially solving problem through collaboration. I am an agile and constant learner who is always prepared for meeting crazy people with crazy ideas.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
